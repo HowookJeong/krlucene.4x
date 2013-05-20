@@ -1,6 +1,8 @@
 [Build Order]
 - Eclipse Project Properties -> Resouece -> Text Encoding (UTF-8) / Line Delimiter (Unix)
 - Eclipse Run As -> Maven Clean -> Maven generate-sources -> Project Clean -> Maven install
+or 
+- Eclipse Run As -> Maven Clean -> Project Clean -> Maven generate-sources -> Maven install
 - Normal Build Order : Maven Clean & Install
 
 
