@@ -1,4 +1,10 @@
-License
+[Build Order]
+- Eclipse Project Properties -> Resouece -> Text Encoding (UTF-8) / Line Delimiter (Unix)
+- Eclipse Run As -> Maven Clean -> Maven generate-sources -> Project Clean -> Maven install
+- Normal Build Order : Maven Clean & Install
+
+
+[License]
 
 Lucene Korean Analysis Module
 http://cafe.naver.com/korlucene
